@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  Hello, I'm Priya !👋 <br>-  IT student passionate about software development and problem-solving.  <br>-  Currently learning core programming concepts and exploring AI fundamentals.<br><br>Currently learning :-🌱 <br>- Web Development: HTML, CSS, JavaScript  <br>- Programming fundamentals & logical thinking  <br>- Git & GitHub for version control  <br>- Basics of Artificial Intelligence <br>
 
 
